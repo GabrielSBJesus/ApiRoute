@@ -2,8 +2,6 @@
 
 Projeto feito com a biblioteca Express
 
-<hr>
-
 ## Scripts
 
 **npm init**
