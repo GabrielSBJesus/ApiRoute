@@ -1,7 +1,5 @@
 # Meu primeiro projeto
 
-<hr style="height:1px">
-
 Projeto feito com a biblioteca Express
 
 <hr>
