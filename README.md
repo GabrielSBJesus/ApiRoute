@@ -6,7 +6,7 @@ Projeto feito com a biblioteca Express
 
 **npm init**
 
-Criar o pacote package.json
+Criar o pacote package.json <br>
 Para que seja possível baixar todas as dependências
 
 **npm i express**
@@ -20,8 +20,8 @@ Porta principal <a>https://localhost:3000<a/>
   
 ## Portas
   
-**<a>https://localhost:3000/all<a/>**
-**<a>https://localhost:3000/data<a/>**
-**<a>https://localhost:3000/API<a/>**
+**<a>https://localhost:3000/all<a/>** <br>
+**<a>https://localhost:3000/data<a/>** <br>
+**<a>https://localhost:3000/API<a/>** <br>
   
   
