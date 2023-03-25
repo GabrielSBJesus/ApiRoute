@@ -1,14 +1,12 @@
 # Meu primeiro projeto
 
-<hr>
+<hr style="height:1px">
 
 Projeto feito com a biblioteca Express
 
 <hr>
 
 ## Scripts
-
-<hr>
 
 **npm init**
 
